@@ -1,0 +1,10 @@
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\bin\Debug\AnonymousVNC.exe.config
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\bin\Debug\AnonymousVNC.exe
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\bin\Debug\AnonymousVNC.pdb
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Debug\AnonymousVNC.frmScanOpenVnc.resources
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Debug\AnonymousVNC.Properties.Resources.resources
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Debug\PwnVnc.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Debug\PwnVnc.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Debug\AnonymousVNC.exe
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Debug\AnonymousVNC.pdb
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Debug\PwnVnc.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\bin\Release\AnonymousVNC.exe.config
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\bin\Release\AnonymousVNC.exe
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\bin\Release\AnonymousVNC.pdb
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\bin\Release\VncSharp.dll
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\bin\Release\VncSharp.pdb
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Release\AnonymousVNC.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Release\AnonymousVNC.Form1.resources
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Release\AnonymousVNC.Properties.Resources.resources
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Release\AnonymousVNC.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Release\AnonymousVNC.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Release\AnonymousVNC.csproj.CopyComplete
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Release\AnonymousVNC.exe
+C:\Users\owner\Desktop\VncSharp-master\AnonymousVNC\obj\Release\AnonymousVNC.pdb
